@@ -14,7 +14,7 @@
         <activity
                 android:name=".MainActivity"
                 android:label="@string/app_name"
-                android:theme="@style/Theme.MyApplication1.NoActionBar">
+                android:theme="@style/Theme.DateAppClone">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
