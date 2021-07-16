@@ -18,7 +18,5 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <style name="Theme.DateAppClone." parent="ThemeOverlay.AppCompat.Dark.ActionBar"
-           tools:ignore="DuplicateDefinition"/>
-    <style name="Theme.DateAppClone." parent="ThemeOverlay.AppCompat.Light" tools:ignore="DuplicateDefinition"/>
+
 </resources>
